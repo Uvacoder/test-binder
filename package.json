@@ -38,7 +38,7 @@
   "type": "module",
   "dependencies": {
     "brace": "^0.11.1",
-    "daisyui": "2.39.1",
+    "daisyui": "2.42.1",
     "get-youtube-id": "^1.0.1",
     "imagekit-javascript": "1.5.4",
     "lodash.debounce": "4.0.8",
