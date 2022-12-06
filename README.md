@@ -2,6 +2,7 @@ https://github.com/resqiar/binder
 
 https://binder-theta.vercel.app
 
+https://github.com/resqiar/binder-server
 
 # create-svelte
 
